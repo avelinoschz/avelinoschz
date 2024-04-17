@@ -2,7 +2,7 @@
 
 **`Software Engineer by ☀️, Digital Wizard by 🌑`**
 
-I am a software engineer with knowledge in digital art -drawing & pixel art, audio-visuals, music-. I have a passion for everything in the digital realm and creating stuff. Currently, I'm specializing in Go and playing around with infra, looking forward to learning more low-level and systems programming.
+I am a software engineer with knowledge in digital art and audio-visuals. I have a passion for creating stuff in the digital realm. Currently, I'm specializing in Go and playing around with infra, looking forward to learning more low-level and systems programming.
 
 ![dancing-gopher](assets/dancing-gopher.gif)
 
